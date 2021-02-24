@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spacex/static/css/main.c5f20e62.chunk.css",
+    "main.js": "/spacex/static/js/main.33420b79.chunk.js",
+    "main.js.map": "/spacex/static/js/main.33420b79.chunk.js.map",
+    "runtime-main.js": "/spacex/static/js/runtime-main.73b9db43.js",
+    "runtime-main.js.map": "/spacex/static/js/runtime-main.73b9db43.js.map",
+    "static/css/2.150d169a.chunk.css": "/spacex/static/css/2.150d169a.chunk.css",
+    "static/js/2.624448e9.chunk.js": "/spacex/static/js/2.624448e9.chunk.js",
+    "static/js/2.624448e9.chunk.js.map": "/spacex/static/js/2.624448e9.chunk.js.map",
+    "index.html": "/spacex/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/spacex/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c5f20e62.chunk.css.map": "/spacex/static/css/main.c5f20e62.chunk.css.map",
+    "static/js/2.624448e9.chunk.js.LICENSE.txt": "/spacex/static/js/2.624448e9.chunk.js.LICENSE.txt",
+    "static/media/video-1.59e75226.mp4": "/spacex/static/media/video-1.59e75226.mp4",
+    "static/media/video-2.45ecd6d4.mp4": "/spacex/static/media/video-2.45ecd6d4.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73b9db43.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.624448e9.chunk.js",
+    "static/css/main.c5f20e62.chunk.css",
+    "static/js/main.33420b79.chunk.js"
+  ]
+}
