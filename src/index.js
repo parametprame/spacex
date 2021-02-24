@@ -16,7 +16,7 @@ ReactDOM.render(
     <div className="body">
       <BrowserRouter basename="/spacex">
         <Navbar />
-        <Route exact path="/Home" component={Homepage} />
+        <Route exact path="/" component={Homepage} />
         <Route exact path="/Launches" component={Launchespage}/>
         <Route exact path="/Rocket" component={Rocketpage} />
         <Route path="/Rocket/:rocket_id" component={Rocket} />
